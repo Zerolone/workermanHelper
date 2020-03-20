@@ -16,3 +16,8 @@
 
 6、写的很乱，只用了一晚上，所以没有考虑任何好用的地方。只在win10 64bit上面调试测试。
 
+!(http://f.zerolone.com/workermanHelper/01.png)
+!(http://f.zerolone.com/workermanHelper/02.png)
+!(http://f.zerolone.com/workermanHelper/03.png)
+!(http://f.zerolone.com/workermanHelper/04.png)
+!(http://f.zerolone.com/workermanHelper/05.png)
