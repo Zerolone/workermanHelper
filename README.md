@@ -22,4 +22,3 @@
 <img src="http://f.zerolone.com/workermanHelper/04.png">
 <img src="http://f.zerolone.com/workermanHelper/05.png">
 
-![image](http://f.zerolone.com/workermanHelper/01.png)
